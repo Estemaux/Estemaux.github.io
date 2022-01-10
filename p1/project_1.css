@@ -1,0 +1,39 @@
+body {
+background-color: white;
+  height: 100vh;
+/*  background-image: linear-gradient(to bottom, #FFCD00, rgb(0, 48, 135), #C8102E);*/
+
+}
+
+.floatRightClear{
+  float: right; clear: right; margin-left: 20px
+}
+
+.floatLeftClear{
+  float: left; clear: left; margin-right: 20px
+}
+/* p:: first-letter{
+  font-size: 3em; color: red; font-weight: bold;
+} */
+.intro{
+  text-align: justify;
+}
+p.name:first-letter {
+    float: left;
+    font-size: 45px;
+    line-height: 0.2;
+    font-weight: bold;
+    margin-right:;
+}
+form.one {
+  background-color: lightpink;
+}
+
+div {
+  background-color: lightpink;
+  length: 400px
+  width: 400px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 15;
+}
