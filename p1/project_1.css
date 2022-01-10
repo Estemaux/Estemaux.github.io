@@ -28,12 +28,10 @@ p.name:first-letter {
 form.one {
   background-color: lightpink;
 }
-
-div {
-  background-color: lightpink;
-  length: 6000px;
-  width: 100%;
-  padding: 10px;
-  border: 5px solid gray;
-  margin: 15;
+#intro {
+    width: 80%;
+    border: 5px solid gray;
+    padding: 10px;
+    margin: 15;
+    background-color: lightpink;
 }
