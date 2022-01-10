@@ -31,8 +31,8 @@ form.one {
 
 div {
   background-color: lightpink;
-  length: 7000px;
-  width: 1800px;
+  length: 5000px;
+  width: 100%;
   padding: 10px;
   border: 5px solid gray;
   margin: 15;
