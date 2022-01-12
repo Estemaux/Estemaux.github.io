@@ -18,10 +18,10 @@ background-color: white;
 .intro{
   text-align: justify;
 }
-p.name:first-letter {
+div.name:first-letter {
     float: left;
     font-size: 45px;
-    line-height: 0.2;
+    line-height:;
     font-weight: bold;
     margin-right:;
 }
@@ -57,14 +57,14 @@ h2{
 .f1{
 
     float: left;
-    width: 20%;
+    width: 50%;
     margin-left: 8%;
     height : auto;
 }
 
 .f2{
     float: right;
-    width: 20%;
+    width: 50%;
     margin-right: 8%;
     height : auto;
 }
@@ -82,10 +82,9 @@ h2{
 }
 
 .box{
-    border: 2px solid black;
+    border: 2px solid red;
     background-color: pink;
     width: 90%;
-    color: white;
 }
 
 .inner{
