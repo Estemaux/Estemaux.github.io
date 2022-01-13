@@ -15,7 +15,7 @@ time, mark, audio, video {
     padding: 0;
     border: 0;
     font-size: 100%;
-    font-family: 'Caveat Brush', cursive;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
     vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
@@ -32,9 +32,11 @@ html {
 }
 
 body {
-    background-image: url("https://i.pinimg.com/originals/df/11/4b/df114b3d71633397af7fe979a8ec2728.jpg");
-    background-size: cover;
+    background-image: url("melodrama.jpg");
+    background-color: #000000;
+    background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
     min-height: 100%;
     height: 100%;
 }
