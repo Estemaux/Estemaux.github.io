@@ -32,8 +32,8 @@ button.box {
 animation: movehand 10s infinite linear;
 width:35%;
 height:20%;
-left: 35%;
-top: 35%;
+left: 49%;
+top: 40%;
 position: absolute;
 transform-origin: left;
 
@@ -42,26 +42,25 @@ transform-origin: left;
 animation: movehand2 10s infinite linear;
 width:40%;
 height:20%;
-left: 35%;
-top: 35%;
+left: 49%;
+top: 40%;
 position: absolute;
 transform-origin: left;
 }
 
 .minutes{
-width:100%;
-height:60%;
-left: 50%;
-top: 35%;
+left: 0;
+top: 0;
+right: 0;
+bottom: 0;
 position: absolute;
 }
 
 .hours{
-width:80%;
-height:60%;
-left: 50%;
-top: 35%;
-
+left: 0;
+top: 0;
+right: 0;
+bottom: 0;
 position: absolute;
 }
 
